@@ -165,4 +165,12 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+	<distributionManagement>
+	    <repository>
+		<id>artifact-repository</id>
+		<url>https://localhostorsomething</url>
+	    </repository>
+	</distributionManagement>
+
 </project>
